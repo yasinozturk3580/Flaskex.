@@ -1,2 +1,40 @@
 # Flaskex.
 flaskex with playbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1506" alt="Screenshot 2025-06-15 at 11 10 43 AM" src="https://github.com/user-attachments/assets/526f95d3-a5ba-41e1-8ea6-cd750f2d91b6" />
